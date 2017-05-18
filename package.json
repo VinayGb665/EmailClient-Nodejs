@@ -1,0 +1,24 @@
+{
+  "name": "emclient",
+  "version": "1.0.0",
+  "description": "An alternative email client",
+  "main": "em.js",
+  "dependencies": {
+    "express": "^4.14.0",
+    "google-auth-library": "^0.10.0",
+    "body-parser": "^1.17.1",
+    "express-session": "^1.9.3",
+    "googleapis": "^19.0.0",
+    "open": "^0.0.5",
+    "openurl": "^1.1.1",
+    "pdf-text": "^0.4.0",
+    "readline-sync": "^1.4.7",
+    "request": "^2.81.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node em"
+  },
+  "author": "Hector",
+  "license": "ISC"
+}
